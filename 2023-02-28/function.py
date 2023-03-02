@@ -11,4 +11,5 @@ def my_function():  ## 내가 설정한 함수 def blabla()
     
 my_function() ## 함수 호출
 
-
+## 블로그 주소
+## --- https://karatejin.tistory.com/ day 6-1 to day 6-5 python
