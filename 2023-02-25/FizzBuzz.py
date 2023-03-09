@@ -4,7 +4,7 @@
 
 ## 5로 나누어 떨어질때 Buzz
 
-## 둘다 포함되면 Buzz
+## 둘다 포함되면 FizzBuzz
 
 for number in range(1,101):
     if number % 3 == 0 and number % 5 !=0:
