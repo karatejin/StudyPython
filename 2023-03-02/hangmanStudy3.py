@@ -17,6 +17,7 @@ for _ in range(word_length):
     display += "_"
 print(display)
 
+##-- 끝날때 까지 반복하기
 end_of_game = False
 
 while not end_of_game:
